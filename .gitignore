@@ -16,3 +16,4 @@
 
 .DS_Store
 *.tmproj
+bundler_stubs/
